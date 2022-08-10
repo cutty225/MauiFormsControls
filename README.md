@@ -1,11 +1,5 @@
-# XamarinFormsControls
-A set of Xamarin.Forms controls
-
-## Sponsoring
-
-If you like this library and use it a lot, consider sponsoring me. Anything helps and encourages me to keep going.
-
-See here for details: https://github.com/sponsors/dotMorten
+# MAUIFormsControls
+A fork of dotmorten/XamarinFormsControls for MAUI / Dotnet 6.0 Compatability
 
 ### Controls
 
